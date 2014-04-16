@@ -1,0 +1,5 @@
+config FS_APPS_RTMPDUMP
+	bool "rtmpdump 2.3"
+	help
+        Library of functions that manipulate
+        RTMP stream data.
